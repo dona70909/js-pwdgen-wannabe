@@ -1,3 +1,3 @@
 /* User name  */
-document.getElementById('nameUser').innerHTML = "CIAO";
-console.log("fatt i fatti tuoi")
+const name = prompt("Inserisci il tuo nome")
+document.getElementById('nameUser').innerHTML = "name";

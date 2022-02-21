@@ -3,5 +3,5 @@ const userName = prompt("Inserisci il tuo nome");
 document.getElementById('nameUser').innerHTML = userName;
 
 /* surname */
-const surname = prompt("Inserisci il tuo nome");
-document.getElementById('surnameUser').innerHTML =  surname;
+const surnameUser = prompt("Inserisci il tuo nome");
+document.getElementById('surname').innerHTML =  surnameUser;
